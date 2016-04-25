@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Stylized Jungle Pack/Demo Scene/Demo Scene.unity
+  isLoaded: 1
+  isActive: 1
